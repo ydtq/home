@@ -10,13 +10,13 @@
     "link": "https://cloud.ydtq.me/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://ydtq.me/"
-  },
-  {
     "icon": "Comments",
     "name": "邮箱",
     "link": "https://mail.qtq.app/"
+  },
+  {
+    "icon": "TencentWeibo",
+    "name": "异次元之旅",
+    "link": "https://travel.moe/"
   }
 ]

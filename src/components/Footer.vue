@@ -23,9 +23,10 @@
         <!-- 站点备案 -->
         <span>
           &amp;
-          <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
+          <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20257600" target="_blank">
             {{ siteIcp }}
-          </a>
+          </a> 
+          <a href="https://beian.miit.gov.cn/" target="_blank"> 浙ICP备2025207926号</a>
         </span>
       </div>
       <div v-else class="lrc">
